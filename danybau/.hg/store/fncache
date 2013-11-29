@@ -1,0 +1,14 @@
+data/deploy/supervisor.conf.i
+data/urls.py.i
+data/fabfile.py.i
+data/.gitignore.i
+data/deploy/gunicorn.conf.py.i
+data/deploy/live_settings.py.i
+data/deploy/nginx.conf.i
+data/.hgignore.i
+data/settings.py.i
+data/deploy/crontab.i
+data/manage.py.i
+data/wsgi.py.i
+data/__init__.py.i
+data/requirements/project.txt.i
